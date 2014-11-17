@@ -11,16 +11,16 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-217" width="866" />
-      <vstem pos="193" width="48" />
+      <hstem pos="-217" width="866"/>
+      <vstem pos="193" width="48"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

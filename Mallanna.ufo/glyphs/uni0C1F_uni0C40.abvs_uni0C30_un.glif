@@ -229,37 +229,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-207" width="44" />
-      <hstem pos="-13" width="50" />
-      <hstem pos="-11" width="51" />
-      <hstem pos="243" width="48" />
-      <hstem pos="403" width="-20" />
-      <hstem pos="386" width="42" />
-      <hstem pos="397" width="46" />
-      <hstem pos="446" width="153" />
-      <hstem pos="470" width="44" />
-      <hstem pos="625" width="42" />
-      <hstem pos="823" width="49" />
-      <vstem pos="11" width="51" />
-      <vstem pos="11" width="48" />
-      <vstem pos="104" width="46" />
-      <vstem pos="254" width="49" />
-      <vstem pos="275" width="56" />
-      <vstem pos="321" width="46" />
-      <vstem pos="373" width="53" />
-      <vstem pos="482" width="44" />
-      <vstem pos="533" width="58" />
-      <vstem pos="543" width="48" />
-      <vstem pos="548" width="52" />
-      <vstem pos="550" width="43" />
+      <hstem pos="-207" width="44"/>
+      <hstem pos="-13" width="50"/>
+      <hstem pos="-11" width="51"/>
+      <hstem pos="243" width="48"/>
+      <hstem pos="403" width="-20"/>
+      <hstem pos="386" width="42"/>
+      <hstem pos="397" width="46"/>
+      <hstem pos="446" width="153"/>
+      <hstem pos="470" width="44"/>
+      <hstem pos="625" width="42"/>
+      <hstem pos="823" width="49"/>
+      <vstem pos="11" width="51"/>
+      <vstem pos="11" width="48"/>
+      <vstem pos="104" width="46"/>
+      <vstem pos="254" width="49"/>
+      <vstem pos="275" width="56"/>
+      <vstem pos="321" width="46"/>
+      <vstem pos="373" width="53"/>
+      <vstem pos="482" width="44"/>
+      <vstem pos="533" width="58"/>
+      <vstem pos="543" width="48"/>
+      <vstem pos="548" width="52"/>
+      <vstem pos="550" width="43"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

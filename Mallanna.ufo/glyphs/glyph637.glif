@@ -89,20 +89,20 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-322" width="46" />
-      <hstem pos="-318" width="46" />
-      <hstem pos="-161" width="47" />
-      <vstem pos="-57" width="49" />
-      <vstem pos="104" width="65" />
-      <vstem pos="325" width="48" />
+      <hstem pos="-322" width="46"/>
+      <hstem pos="-318" width="46"/>
+      <hstem pos="-161" width="47"/>
+      <vstem pos="-57" width="49"/>
+      <vstem pos="104" width="65"/>
+      <vstem pos="325" width="48"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

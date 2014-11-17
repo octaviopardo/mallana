@@ -123,25 +123,25 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-15" width="48" />
-      <hstem pos="274" width="50" />
-      <hstem pos="386" width="50" />
-      <hstem pos="518" width="51" />
-      <hstem pos="653" width="48" />
-      <vstem pos="11" width="60" />
-      <vstem pos="148" width="53" />
-      <vstem pos="226" width="53" />
-      <vstem pos="228" width="55" />
-      <vstem pos="431" width="50" />
-      <vstem pos="458" width="53" />
+      <hstem pos="-15" width="48"/>
+      <hstem pos="274" width="50"/>
+      <hstem pos="386" width="50"/>
+      <hstem pos="518" width="51"/>
+      <hstem pos="653" width="48"/>
+      <vstem pos="11" width="60"/>
+      <vstem pos="148" width="53"/>
+      <vstem pos="226" width="53"/>
+      <vstem pos="228" width="55"/>
+      <vstem pos="431" width="50"/>
+      <vstem pos="458" width="53"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -20,17 +20,17 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-2" width="64" />
-      <hstem pos="402" width="-20" />
-      <vstem pos="9" width="598" />
+      <hstem pos="-2" width="64"/>
+      <hstem pos="402" width="-20"/>
+      <vstem pos="9" width="598"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

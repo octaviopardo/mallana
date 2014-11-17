@@ -102,19 +102,19 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-10" width="47" />
-      <hstem pos="174" width="49" />
-      <hstem pos="507" width="49" />
-      <vstem pos="29" width="54" />
-      <vstem pos="565" width="55" />
+      <hstem pos="-10" width="47"/>
+      <hstem pos="174" width="49"/>
+      <hstem pos="507" width="49"/>
+      <vstem pos="29" width="54"/>
+      <vstem pos="565" width="55"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

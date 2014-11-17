@@ -180,31 +180,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-207" width="44" />
-      <hstem pos="-13" width="51" />
-      <hstem pos="167" width="42" />
-      <hstem pos="175" width="34" />
-      <hstem pos="210" width="51" />
-      <hstem pos="311" width="40" />
-      <hstem pos="314" width="40" />
-      <hstem pos="386" width="50" />
-      <vstem pos="11" width="51" />
-      <vstem pos="11" width="46" />
-      <vstem pos="77" width="36" />
-      <vstem pos="222" width="42" />
-      <vstem pos="319" width="40" />
-      <vstem pos="471" width="41" />
-      <vstem pos="520" width="45" />
-      <vstem pos="617" width="49" />
-      <vstem pos="795" width="47" />
+      <hstem pos="-207" width="44"/>
+      <hstem pos="-13" width="51"/>
+      <hstem pos="167" width="42"/>
+      <hstem pos="175" width="34"/>
+      <hstem pos="210" width="51"/>
+      <hstem pos="311" width="40"/>
+      <hstem pos="314" width="40"/>
+      <hstem pos="386" width="50"/>
+      <vstem pos="11" width="51"/>
+      <vstem pos="11" width="46"/>
+      <vstem pos="77" width="36"/>
+      <vstem pos="222" width="42"/>
+      <vstem pos="319" width="40"/>
+      <vstem pos="471" width="41"/>
+      <vstem pos="520" width="45"/>
+      <vstem pos="617" width="49"/>
+      <vstem pos="795" width="47"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>

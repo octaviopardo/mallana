@@ -262,37 +262,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="-414" width="44" />
-      <hstem pos="-330" width="38" />
-      <hstem pos="-329" width="40" />
-      <hstem pos="-172" width="38" />
-      <hstem pos="-86" width="40" />
-      <hstem pos="-83" width="37" />
-      <hstem pos="-15" width="48" />
-      <hstem pos="194" width="53" />
-      <hstem pos="209" width="45" />
-      <hstem pos="379" width="50" />
-      <hstem pos="544" width="55" />
-      <vstem pos="11" width="47" />
-      <vstem pos="100" width="39" />
-      <vstem pos="156" width="35" />
-      <vstem pos="235" width="36" />
-      <vstem pos="240" width="42" />
-      <vstem pos="257" width="51" />
-      <vstem pos="426" width="38" />
-      <vstem pos="488" width="51" />
-      <vstem pos="515" width="46" />
-      <vstem pos="518" width="48" />
-      <vstem pos="619" width="49" />
-      <vstem pos="804" width="47" />
+      <hstem pos="-414" width="44"/>
+      <hstem pos="-330" width="38"/>
+      <hstem pos="-329" width="40"/>
+      <hstem pos="-172" width="38"/>
+      <hstem pos="-86" width="40"/>
+      <hstem pos="-83" width="37"/>
+      <hstem pos="-15" width="48"/>
+      <hstem pos="194" width="53"/>
+      <hstem pos="209" width="45"/>
+      <hstem pos="379" width="50"/>
+      <hstem pos="544" width="55"/>
+      <vstem pos="11" width="47"/>
+      <vstem pos="100" width="39"/>
+      <vstem pos="156" width="35"/>
+      <vstem pos="235" width="36"/>
+      <vstem pos="240" width="42"/>
+      <vstem pos="257" width="51"/>
+      <vstem pos="426" width="38"/>
+      <vstem pos="488" width="51"/>
+      <vstem pos="515" width="46"/>
+      <vstem pos="518" width="48"/>
+      <vstem pos="619" width="49"/>
+      <vstem pos="804" width="47"/>
     </hintset>
   </hintSetList>
   </data>
-  </dict>
+    </dict>
   </lib>
 </glyph>
