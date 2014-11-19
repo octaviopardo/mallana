@@ -122,6 +122,8 @@
 	<string>dollar.glif</string>
 	<key>dottedcircle</key>
 	<string>dottedcircle.glif</string>
+	<key>drop</key>
+	<string>drop.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
@@ -370,6 +372,10 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>subscript2</key>
+	<string>subscript2.glif</string>
+	<key>superscript01</key>
+	<string>superscript01.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>three</key>
@@ -498,8 +504,6 @@
 	<string>uni0C_150C_4D_.blwf.glif</string>
 	<key>uni0C150C4D.blwf0C43.bl</key>
 	<string>uni0C_150C_4D_.blwf0C_43.bl.glif</string>
-	<key>uni0C15_uni0C37_uni0C4D.akhn_un</key>
-	<string>uni0C_15_uni0C_37_uni0C_4D_.akhn_un.glif</string>
 	<key>uni0C15_uni0C3E.abvs_uni0C30_un</key>
 	<string>uni0C_15_uni0C_3E_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C15_uni0C3F.abvs_uni0C30_un</key>
@@ -636,6 +640,8 @@
 	<string>uni0C_17_uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C18</key>
 	<string>uni0C_18.glif</string>
+	<key>uni0C18.piece</key>
+	<string>uni0C_18.piece.glif</string>
 	<key>uni0C180C300C4D.blwf.bl</key>
 	<string>uni0C_180C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C180C300C4D.blwf.bl.001</key>
@@ -2108,6 +2114,8 @@
 	<string>uni0C_350C_300C_4D_.blwf.bl.001.glif</string>
 	<key>uni0C350C3E.abvs</key>
 	<string>uni0C_350C_3E_.abvs.glif</string>
+	<key>uni0C350C3E.abvs.alt</key>
+	<string>uni0C_350C_3E_.abvs.alt.glif</string>
 	<key>uni0C350C3F.abvs</key>
 	<string>uni0C_350C_3F_.abvs.glif</string>
 	<key>uni0C350C40.abvs</key>
@@ -2332,6 +2340,8 @@
 	<string>uni0C_38_uni0C_4B_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C38_uni0C4C.abvs_uni0C30_un</key>
 	<string>uni0C_38_uni0C_4C_.abvs_uni0C_30_un.glif</string>
+	<key>uni0C38base</key>
+	<string>uni0C_38base.glif</string>
 	<key>uni0C39</key>
 	<string>uni0C_39.glif</string>
 	<key>uni0C390C300C4D.blwf.bl</key>

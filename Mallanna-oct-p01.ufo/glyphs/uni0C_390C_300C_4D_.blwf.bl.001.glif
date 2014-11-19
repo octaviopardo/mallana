@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0C390C300C4D.blwf.bl.001" format="1">
-  <advance width="901"/>
-  <outline>
-    <component base="uni0C350C3E.abvs.alt"/>
-    <component base="superscript01"/>
-    <component base="glyph613" xOffset="517" yOffset="90" xScale="0.96"/>
-  </outline>
-</glyph>

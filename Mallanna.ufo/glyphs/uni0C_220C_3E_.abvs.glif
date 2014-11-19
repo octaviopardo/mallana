@@ -3,24 +3,8 @@
   <advance width="908"/>
   <outline>
     <contour>
-      <point x="320" y="-41" type="curve" name="hr00" smooth="yes"/>
-      <point x="320" y="-38"/>
-      <point x="316" y="-25"/>
-      <point x="309" y="-2" type="curve"/>
-      <point x="298" y="25"/>
-      <point x="292" y="42"/>
-      <point x="289" y="47" type="curve"/>
-      <point x="262" y="-6" type="line" smooth="yes"/>
-      <point x="253" y="-24"/>
-      <point x="247" y="-36"/>
-      <point x="247" y="-43" type="curve" smooth="yes"/>
-      <point x="247" y="-67"/>
-      <point x="259" y="-87"/>
-      <point x="286" y="-87" type="curve" smooth="yes"/>
-      <point x="307" y="-87"/>
-      <point x="320" y="-65"/>
-    </contour>
-    <contour>
+      <point x="167" y="365"/>
+      <point x="218" y="386"/>
       <point x="281" y="386" type="curve" smooth="yes"/>
       <point x="362.686" y="386"/>
       <point x="424.619" y="362.873"/>
@@ -106,10 +90,10 @@
       <point x="70" y="234"/>
       <point x="89" y="283"/>
       <point x="128" y="324" type="curve" smooth="yes"/>
-      <point x="167" y="365"/>
-      <point x="218" y="386"/>
     </contour>
     <contour>
+      <point x="763" y="392"/>
+      <point x="795" y="366"/>
       <point x="795" y="325" type="curve" smooth="yes"/>
       <point x="795" y="285"/>
       <point x="765" y="261"/>
@@ -120,10 +104,10 @@
       <point x="666" y="366"/>
       <point x="695" y="392"/>
       <point x="731" y="392" type="curve" smooth="yes"/>
-      <point x="763" y="392"/>
-      <point x="795" y="366"/>
     </contour>
     <contour>
+      <point x="481" y="226"/>
+      <point x="504" y="201"/>
       <point x="504" y="177" type="curve" smooth="yes"/>
       <point x="504" y="142"/>
       <point x="488" y="129"/>
@@ -134,8 +118,17 @@
       <point x="400" y="207"/>
       <point x="427" y="226"/>
       <point x="454" y="226" type="curve" smooth="yes"/>
-      <point x="481" y="226"/>
-      <point x="504" y="201"/>
     </contour>
+    <component base="drop" xOffset="193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

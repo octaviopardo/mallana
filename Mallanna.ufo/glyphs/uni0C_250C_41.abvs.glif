@@ -3,21 +3,8 @@
   <advance width="918"/>
   <outline>
     <contour>
-      <point x="313" y="-41" type="curve" name="hr00" smooth="yes"/>
-      <point x="313" y="-31.7833"/>
-      <point x="281.666" y="45.8902"/>
-      <point x="281" y="47" type="curve"/>
-      <point x="254" y="-6" type="line" smooth="yes"/>
-      <point x="245" y="-24"/>
-      <point x="239" y="-36"/>
-      <point x="239" y="-43" type="curve" smooth="yes"/>
-      <point x="239" y="-67"/>
-      <point x="253" y="-87"/>
-      <point x="278" y="-87" type="curve" smooth="yes"/>
-      <point x="299" y="-87"/>
-      <point x="313" y="-65"/>
-    </contour>
-    <contour>
+      <point x="759" y="391"/>
+      <point x="805" y="316"/>
       <point x="805" y="213" type="curve" smooth="yes"/>
       <point x="805" y="124.489"/>
       <point x="760.929" y="40"/>
@@ -104,10 +91,10 @@
       <point x="620" y="398"/>
       <point x="626" y="391"/>
       <point x="662" y="391" type="curve" smooth="yes"/>
-      <point x="759.289" y="391"/>
-      <point x="805" y="316.057"/>
     </contour>
     <contour>
+      <point x="319" y="198"/>
+      <point x="334" y="214"/>
       <point x="334" y="245" type="curve" smooth="yes"/>
       <point x="334" y="270"/>
       <point x="315" y="291"/>
@@ -118,10 +105,10 @@
       <point x="241" y="218"/>
       <point x="261" y="198"/>
       <point x="288" y="198" type="curve" smooth="yes"/>
-      <point x="319" y="198"/>
-      <point x="334" y="214"/>
     </contour>
     <contour>
+      <point x="488" y="291"/>
+      <point x="510" y="237"/>
       <point x="510" y="169" type="curve" smooth="yes"/>
       <point x="510" y="133"/>
       <point x="499" y="102"/>
@@ -155,8 +142,17 @@
       <point x="350" y="386"/>
       <point x="402" y="368"/>
       <point x="443" y="331" type="curve" smooth="yes"/>
-      <point x="488" y="291"/>
-      <point x="510" y="237"/>
     </contour>
+    <component base="drop" xOffset="186"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
