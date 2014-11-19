@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0C390C3F.abvs" format="1">
+  <advance width="895"/>
+  <outline>
+    <component base="uni0C3F" xOffset="129" yOffset="-81"/>
+    <component base="uni0C350C3E.abvs.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

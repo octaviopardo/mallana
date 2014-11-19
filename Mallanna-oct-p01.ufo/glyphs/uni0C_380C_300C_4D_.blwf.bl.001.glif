@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0C380C300C4D.blwf.bl.001" format="1">
+  <advance width="612"/>
+  <outline>
+    <component base="uni0C38base" xOffset="3"/>
+    <component base="superscript01"/>
+    <component base="glyph613" xOffset="522" yOffset="90" xScale="0.97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
