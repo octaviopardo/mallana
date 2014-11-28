@@ -1,5 +1,5 @@
 # Prefix: Prefix
-@GDEF_Simple = [          \space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+@GDEF_Simple = [               \space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
 	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
 	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
 	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
@@ -436,7 +436,7 @@
 	\uni0C38_uni0C42.abvs_uni0C30_un \uni0C39_uni0C42.abvs_uni0C30_un 
 	\uni0C15_uni0C37_uni0C4D.akhn_un.001 \glyph1236 \glyph1237 \glyph1238 
 	\glyph1239 \glyph1240 \glyph1241 \glyph1242 \glyph1243 \glyph1244 \glyph1245 
-	\glyph1246           ];
+	\glyph1246                ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

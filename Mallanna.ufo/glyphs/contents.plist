@@ -6,16 +6,42 @@
 	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
+	<key>AE</key>
+	<string>A_E_.glif</string>
+	<key>Aacute</key>
+	<string>A_acute.glif</string>
+	<key>Acircumflex</key>
+	<string>A_circumflex.glif</string>
+	<key>Adieresis</key>
+	<string>A_dieresis.glif</string>
+	<key>Agrave</key>
+	<string>A_grave.glif</string>
+	<key>Aring</key>
+	<string>A_ring.glif</string>
+	<key>Atilde</key>
+	<string>A_tilde.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>CR</key>
 	<string>C_R_.glif</string>
+	<key>Ccedilla</key>
+	<string>C_cedilla.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
+	<key>Eacute</key>
+	<string>E_acute.glif</string>
+	<key>Ecircumflex</key>
+	<string>E_circumflex.glif</string>
+	<key>Edieresis</key>
+	<string>E_dieresis.glif</string>
+	<key>Egrave</key>
+	<string>E_grave.glif</string>
+	<key>Eth</key>
+	<string>E_th.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -24,6 +50,14 @@
 	<string>H_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>Iacute</key>
+	<string>I_acute.glif</string>
+	<key>Icircumflex</key>
+	<string>I_circumflex.glif</string>
+	<key>Idieresis</key>
+	<string>I_dieresis.glif</string>
+	<key>Igrave</key>
+	<string>I_grave.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>K</key>
@@ -36,8 +70,24 @@
 	<string>N_.glif</string>
 	<key>NULL</key>
 	<string>N_U_L_L_.glif</string>
+	<key>Ntilde</key>
+	<string>N_tilde.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+	<key>OE</key>
+	<string>O_E_.glif</string>
+	<key>Oacute</key>
+	<string>O_acute.glif</string>
+	<key>Ocircumflex</key>
+	<string>O_circumflex.glif</string>
+	<key>Odieresis</key>
+	<string>O_dieresis.glif</string>
+	<key>Ograve</key>
+	<string>O_grave.glif</string>
+	<key>Oslash</key>
+	<string>O_slash.glif</string>
+	<key>Otilde</key>
+	<string>O_tilde.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>Q</key>
@@ -46,10 +96,22 @@
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Scaron</key>
+	<string>S_caron.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>Thorn</key>
+	<string>T_horn.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
+	<key>Uacute</key>
+	<string>U_acute.glif</string>
+	<key>Ucircumflex</key>
+	<string>U_circumflex.glif</string>
+	<key>Udieresis</key>
+	<string>U_dieresis.glif</string>
+	<key>Ugrave</key>
+	<string>U_grave.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>W</key>
@@ -58,22 +120,32 @@
 	<string>X_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
+	<key>Yacute</key>
+	<string>Y_acute.glif</string>
+	<key>Ydieresis</key>
+	<string>Y_dieresis.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>aacute</key>
+	<string>aacute.glif</string>
+	<key>acircumflex</key>
+	<string>acircumflex.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
+	<key>adieresis</key>
+	<string>adieresis.glif</string>
+	<key>ae</key>
+	<string>ae.glif</string>
+	<key>agrave</key>
+	<string>agrave.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>anudattadeva</key>
 	<string>anudattadeva.glif</string>
-	<key>arrowdown</key>
-	<string>arrowdown.glif</string>
-	<key>arrowleft</key>
-	<string>arrowleft.glif</string>
-	<key>arrowright</key>
-	<string>arrowright.glif</string>
-	<key>arrowup</key>
-	<string>arrowup.glif</string>
+	<key>aring</key>
+	<string>aring.glif</string>
 	<key>asciicircum</key>
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
@@ -82,6 +154,8 @@
 	<string>asterisk.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>atilde</key>
+	<string>atilde.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>backslash</key>
@@ -100,10 +174,14 @@
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>ccedilla</key>
+	<string>ccedilla.glif</string>
+	<key>cedilla</key>
+	<string>cedilla.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
-	<key>centigrade</key>
-	<string>centigrade.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -112,20 +190,30 @@
 	<string>copyright.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-	<key>danda-deva</key>
-	<string>danda-deva.glif</string>
-	<key>dbldanda-deva</key>
-	<string>dbldanda-deva.glif</string>
+	<key>dagger</key>
+	<string>dagger.glif</string>
+	<key>daggerdbl</key>
+	<string>daggerdbl.glif</string>
+	<key>degree</key>
+	<string>degree.glif</string>
+	<key>dieresis</key>
+	<string>dieresis.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
-	<key>dottedcircle</key>
-	<string>dottedcircle.glif</string>
 	<key>drop</key>
 	<string>drop.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>eacute</key>
+	<string>eacute.glif</string>
+	<key>ecircumflex</key>
+	<string>ecircumflex.glif</string>
+	<key>edieresis</key>
+	<string>edieresis.glif</string>
+	<key>egrave</key>
+	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>ellipsis</key>
@@ -136,18 +224,24 @@
 	<string>endash.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>eth</key>
+	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>exclamdown</key>
+	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>fahrenheit</key>
-	<string>fahrenheit.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>florin</key>
+	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>germandbls</key>
+	<string>germandbls.glif</string>
 	<key>glyph1236</key>
 	<string>glyph1236.glif</string>
 	<key>glyph1237</key>
@@ -202,6 +296,8 @@
 	<string>glyph612.glif</string>
 	<key>glyph613</key>
 	<string>glyph613.glif</string>
+	<key>glyph613.alt</key>
+	<string>glyph613.alt.glif</string>
 	<key>glyph614</key>
 	<string>glyph614.glif</string>
 	<key>glyph615</key>
@@ -292,12 +388,28 @@
 	<string>grave.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>guillemotleft</key>
+	<string>guillemotleft.glif</string>
+	<key>guillemotright</key>
+	<string>guillemotright.glif</string>
+	<key>guilsinglleft</key>
+	<string>guilsinglleft.glif</string>
+	<key>guilsinglright</key>
+	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>iacute</key>
+	<string>iacute.glif</string>
+	<key>icircumflex</key>
+	<string>icircumflex.glif</string>
+	<key>idieresis</key>
+	<string>idieresis.glif</string>
+	<key>igrave</key>
+	<string>igrave.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>k</key>
@@ -308,28 +420,44 @@
 	<string>less.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
-	<key>minus</key>
-	<string>minus.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>notdef.001</key>
+	<string>notdef.001.glif</string>
+	<key>ntilde</key>
+	<string>ntilde.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
-	<key>omdeva</key>
-	<string>omdeva.glif</string>
+	<key>oacute</key>
+	<string>oacute.glif</string>
+	<key>ocircumflex</key>
+	<string>ocircumflex.glif</string>
+	<key>odieresis</key>
+	<string>odieresis.glif</string>
+	<key>oe</key>
+	<string>oe.glif</string>
+	<key>ograve</key>
+	<string>ograve.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
-	<key>onehalf</key>
-	<string>onehalf.glif</string>
-	<key>onequarter</key>
-	<string>onequarter.glif</string>
+	<key>ordfeminine</key>
+	<string>ordfeminine.glif</string>
+	<key>ordmasculine</key>
+	<string>ordmasculine.glif</string>
+	<key>oslash</key>
+	<string>oslash.glif</string>
+	<key>otilde</key>
+	<string>otilde.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>paragraph</key>
+	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
 	<key>parenright</key>
@@ -338,14 +466,20 @@
 	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
+	<key>periodcentered</key>
+	<string>periodcentered.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>questiondown</key>
+	<string>questiondown.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
+	<key>quotedblbase</key>
+	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
 	<key>quotedblright</key>
@@ -354,6 +488,8 @@
 	<string>quoteleft.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
+	<key>quotesinglbase</key>
+	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>
@@ -362,6 +498,8 @@
 	<string>registered.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>scaron</key>
+	<string>scaron.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>seven</key>
@@ -372,22 +510,36 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>sterling</key>
+	<string>sterling.glif</string>
 	<key>subscript2</key>
 	<string>subscript2.glif</string>
 	<key>superscript01</key>
 	<string>superscript01.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>thorn</key>
+	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
-	<key>threequarters</key>
-	<string>threequarters.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
+	<key>trademark</key>
+	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>uacute</key>
+	<string>uacute.glif</string>
+	<key>ucircumflex</key>
+	<string>ucircumflex.glif</string>
 	<key>udattadeva</key>
 	<string>udattadeva.glif</string>
+	<key>udieresis</key>
+	<string>udieresis.glif</string>
+	<key>ugrave</key>
+	<string>ugrave.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>uni0C01</key>
@@ -426,6 +578,8 @@
 	<string>uni0C_14.glif</string>
 	<key>uni0C15</key>
 	<string>uni0C_15.glif</string>
+	<key>uni0C15.alt</key>
+	<string>uni0C_15.alt.glif</string>
 	<key>uni0C150C300C4D.blwf.bl</key>
 	<string>uni0C_150C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C150C300C4D.blwf.bl.001</key>
@@ -1130,6 +1284,8 @@
 	<string>uni0C_20_uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C21</key>
 	<string>uni0C_21.glif</string>
+	<key>uni0C21.alt</key>
+	<string>uni0C_21.alt.glif</string>
 	<key>uni0C210C300C4D.blwf.bl</key>
 	<string>uni0C_210C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C210C300C4D.blwf.bl.001</key>
@@ -1292,6 +1448,8 @@
 	<string>uni0C_23_uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C24</key>
 	<string>uni0C_24.glif</string>
+	<key>uni0C24.alt</key>
+	<string>uni0C_24.alt.glif</string>
 	<key>uni0C240C300C4D.blwf.bl</key>
 	<string>uni0C_240C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C240C300C4D.blwf.bl.001</key>
@@ -1566,6 +1724,8 @@
 	<string>uni0C_28_uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C2A</key>
 	<string>uni0C_2A_.glif</string>
+	<key>uni0C2A.alt</key>
+	<string>uni0C_2A_.alt.glif</string>
 	<key>uni0C2A0C300C4D.blwf.bl</key>
 	<string>uni0C_2A_0C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C2A0C300C4D.blwf.bl.001</key>
@@ -1836,6 +1996,8 @@
 	<string>uni0C_2E__uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C2F</key>
 	<string>uni0C_2F_.glif</string>
+	<key>uni0C2F.alt</key>
+	<string>uni0C_2F_.alt.glif</string>
 	<key>uni0C2F0C300C4D.blwf.bl</key>
 	<string>uni0C_2F_0C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C2F0C300C4D.blwf.bl.001</key>
@@ -2220,10 +2382,14 @@
 	<string>uni0C_36_uni0C_4C_.abvs_uni0C_30_un.glif</string>
 	<key>uni0C37</key>
 	<string>uni0C_37.glif</string>
+	<key>uni0C37.alt</key>
+	<string>uni0C_37.alt.glif</string>
 	<key>uni0C370C300C4D.blwf.bl</key>
 	<string>uni0C_370C_300C_4D_.blwf.bl.glif</string>
 	<key>uni0C370C300C4D.blwf.bl.001</key>
 	<string>uni0C_370C_300C_4D_.blwf.bl.001.glif</string>
+	<key>uni0C370C300C4D.blwf.bl.001.alt</key>
+	<string>uni0C_370C_300C_4D_.blwf.bl.001.alt.glif</string>
 	<key>uni0C370C3E.abvs</key>
 	<string>uni0C_370C_3E_.abvs.glif</string>
 	<key>uni0C370C3F.abvs</key>
@@ -2430,6 +2596,14 @@
 	<string>uni0C_55.glif</string>
 	<key>uni0C56</key>
 	<string>uni0C_56.glif</string>
+	<key>uni0C56.alt</key>
+	<string>uni0C_56.alt.glif</string>
+	<key>uni0C56.alt.02</key>
+	<string>uni0C_56.alt.02.glif</string>
+	<key>uni0C56.alt.03</key>
+	<string>uni0C_56.alt.03.glif</string>
+	<key>uni0C56.alt.04</key>
+	<string>uni0C_56.alt.04.glif</string>
 	<key>uni0C58</key>
 	<string>uni0C_58.glif</string>
 	<key>uni0C59</key>
@@ -2482,10 +2656,6 @@
 	<string>uni200C_.glif</string>
 	<key>uni200D</key>
 	<string>uni200D_.glif</string>
-	<key>uni20B9</key>
-	<string>uni20B_9.glif</string>
-	<key>uni2153</key>
-	<string>uni2153.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
@@ -2494,6 +2664,12 @@
 	<string>x.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>yacute</key>
+	<string>yacute.glif</string>
+	<key>ydieresis</key>
+	<string>ydieresis.glif</string>
+	<key>yen</key>
+	<string>yen.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 	<key>zero</key>
