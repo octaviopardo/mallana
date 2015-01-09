@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent" format="1">
   <advance width="742"/>
+  <unicode hex="0025"/>
   <outline>
     <contour>
       <point x="274" y="315"/>

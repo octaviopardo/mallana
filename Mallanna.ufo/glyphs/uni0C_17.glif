@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="glyph549" format="1">
-  <advance width="937"/>
+<glyph name="uni0C17" format="1">
+  <advance width="534"/>
+  <unicode hex="0C17"/>
   <outline>
-    <component base="uni0C1A0C4A.abvs"/>
-    <component base="uni0C56.alt.03" xOffset="575" yOffset="892" xScale="-1"/>
+    <component base="uni0C67"/>
+    <component base="superscript01" xOffset="97" yOffset="-11"/>
   </outline>
   <lib>
     <dict>
@@ -12,7 +13,7 @@
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
